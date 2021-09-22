@@ -1,0 +1,380 @@
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\rentacar\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentAcarProje-20200422T160119Z-001\rentAcarProje\rentacar\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.Form1.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.aracTeslim.resources
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\bin\Debug\Guna.UI.dll
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\bin\Debug\Guna.UI2.dll
+C:\Users\yildi\Desktop\rentacar enson\rentacar\rentacar\obj\Debug\rentacar.csproj.CopyComplete
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Guna.UI.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Guna.UI2.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.aracTeslim.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.csproj.CopyComplete
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\EnvDTE.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\stdole.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.yazdir.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.sozlesmeYazdir.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.csproj.ResolveComReference.cache
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.Resources.sozlesmeOrnegi.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.iletisim.resources
+C:\Users\yildi\Desktop\rentacar enson 2\rentacar\rentacar\obj\Debug\rentacar.raporTarih.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Guna.UI.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Guna.UI2.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\EnvDTE.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\stdole.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.csproj.ResolveComReference.cache
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.aracTeslim.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.iletisim.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.raporTarih.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.Resources.sozlesmeOrnegi.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.sozlesmeYazdir.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.yazdir.resources
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.csproj.CopyComplete
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\volkan rent a car\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\EnvDTE.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\stdole.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.csproj.ResolveComReference.cache
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.aracTeslim.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.iletisim.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.raporTarih.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.Resources.sozlesmeOrnegi.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.sozlesmeYazdir.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.yazdir.resources
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.csproj.CopyComplete
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\VolkaN\Rent A Car OTOMASYON (C#)\volkan_rent_a_car_v.1.0\rentacar\rentacar\obj\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\rentacar.exe.config
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\rentacar.exe
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\rentacar.pdb
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\EnvDTE.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\stdole.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Microsoft.MSXML.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.csproj.AssemblyReference.cache
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.csproj.ResolveComReference.cache
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.aracEkle.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.aracKirala.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.aracTeslim.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.iletisim.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.index.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.musteri.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.Properties.Resources.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.raporTarih.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.Resources.sozlesmeOrnegi.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.sozlesmeYazdir.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.yazdir.resources
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.csproj.CopyComplete
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.exe
+C:\Users\yildi\Desktop\volkan_rent_a_car_v.1.0 - yedek\rentacar\rentacar\obj\Debug\rentacar.pdb
